@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ayushsharma78673@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wiUxnaFsNx0XEXJbOj21VkzxwB84RrUC/view?usp=share_link](https://drive.google.com/file/d/1wiUxnaFsNx0XEXJbOj21VkzxwB84RrUC/view?usp=share_link)
+- 📄 Know about my experiences [https://tinyurl.com/256cs9ku](https://tinyurl.com/256cs9ku)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
