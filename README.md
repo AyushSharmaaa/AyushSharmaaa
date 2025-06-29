@@ -11,8 +11,6 @@
 - 📫 Reach me at: **ayush.sharma.workspace@gmail.com**  
 - 📄 [View My Resume](https://tinyurl.com/git-ayushsharma)
 
----
-
 ### 🌐 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/ayush-sharma-819b84217/" target="_blank">
