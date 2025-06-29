@@ -8,7 +8,7 @@
 - ⚙️ Hands-on with **Kafka, Docker, Kubernetes, Git**, and more  
 - 🌐 Familiar with frontend tech: **HTML, CSS, JavaScript, React, jQuery**  
 - 🎓 B.Tech in Computer Science Engineering from **GLA University, Mathura**  
-- 📫 Reach me at: **ayush.sharma.workspacegmail.com**  
+- 📫 Reach me at: **ayush.sharma.workspace@gmail.com**  
 - 📄 [View My Resume](https://tinyurl.com/git-ayushsharma)
 
 ---
